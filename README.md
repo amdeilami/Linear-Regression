@@ -24,7 +24,7 @@ Here is an example:
 In the aforementioned example we have 2 features in each row (the first two numbers), the third number is the sample output for the corresponding features.
 
 
-I think you are able to run this project on MATLAB with almost no modification, not sure, check it out!
+I think you are able to run this project on MATLAB (instead of Octave) with almost no modification, not sure, check it out!
 
 
  
