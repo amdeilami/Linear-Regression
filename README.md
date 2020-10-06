@@ -5,6 +5,10 @@
 *******************************************************************************************************************
 
 In this program, I implemented multi-variable linear regression in both gradientDescent and normalEquations method.
+Depending on the size of your training set, you can choose gradientDescent or normalEquations way.
+Enough comments has been added to files to clarify the implementation. If you are not sure about how actually each script is working, first check Octave documentation to see what each function does. Second, search for other related keywords in linear regression.
+
+*******************************************************************************************************************
 
 All you need to do is to place your dataset next to the main.m file and execute the program using GNU Octave.
 Be sure that you have checked the structure of your dataset file before run.
